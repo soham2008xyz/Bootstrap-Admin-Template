@@ -48,7 +48,7 @@
     "browser-sync": "^3.0.4",
     "css-flip": "^0.5.0",
     "del": "^8.0.0",
-    "gulp": "^5.0.0",
+    "gulp": "^5.0.1",
     "gulp-autoprefixer": "^9.0.0",
     "gulp-babel": "^8.0.0",
     "gulp-concat": "^2.6.0",
